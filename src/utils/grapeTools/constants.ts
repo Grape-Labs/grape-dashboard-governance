@@ -1,0 +1,1 @@
+export const GRAPE_RPC_ENDPOINT = 'https://free.rpcpool.com';
