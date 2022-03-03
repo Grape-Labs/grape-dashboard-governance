@@ -1,4 +1,4 @@
-# grape-dashboard-governance-component
+# grape-dashboard-governance
 This is an example of a component that can be quickly integrated to the Grape Dashboard
 
 This has been implemented for the Governance Program as an example:
