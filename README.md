@@ -8,7 +8,8 @@ This has been implemented for the Governance Program as an example:
 -   Displaying all positions that the wallet can participate in
 -   Viewing all active proposals in any given realm
 -   Ability to cast votes on a proposal
--   Ability to withdraw holdings
+-   Ability to withdraw casted vote
+-   Ability to withdraw from realms
 
 
 Preview:
